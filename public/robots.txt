@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dodocosleep.com/sitemap-index.xml
